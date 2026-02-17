@@ -64,15 +64,6 @@ Python + SQL pipelines, API integrations (Correios, Qive, CRMs), structured data
 
 ---
 
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoTorres92&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoTorres92&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 <h2>🎯 What You’ll Find Here</h2>
 
 • Real business-driven systems  
