@@ -32,9 +32,6 @@ Data + Automation + LLMs + Real-world business use cases
 🔹 **Juri-AI**  
 AI-powered SaaS for legal workflow automation, document analysis (RAG), client and contract management.
 
-🔹 **SAC Manager**  
-Django-based system for logistics protocol tracking, dashboard analytics and operational intelligence.
-
 🔹 **Data Pipelines & ETL Projects**  
 Python + SQL pipelines, API integrations (Correios, Qive, CRMs), structured data transformation.
 
@@ -46,7 +43,6 @@ Python + SQL pipelines, API integrations (Correios, Qive, CRMs), structured data
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=google-bigquery)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
 
