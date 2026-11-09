@@ -45,6 +45,14 @@ Cinematic scroll-driven website for a real pet grooming business: AI-generated v
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+<a href="https://github.com/EduardoTorres92/modelo-site-advocacia"><img src="https://raw.githubusercontent.com/EduardoTorres92/modelo-site-advocacia/main/docs/1-abertura.jpg" width="320" align="right"></a>
+<b><a href="https://github.com/EduardoTorres92/modelo-site-advocacia">Law Firm Website Template</a></b><br>
+Resellable website for Brazilian law firms: a scroll-driven video opening (160 frames on a canvas) and a case-tracking tool on top of CNJ's public DataJud API, explaining each court update in plain Portuguese. Background function + Netlify Blobs to survive a 30–60 s public API. Built within the bar association's advertising rules (OAB Provimento 205/2021).<br><br>
+<a href="https://advocacia-modelo-eduardo.netlify.app">▶ Live demo</a> · JavaScript · Netlify Functions · Netlify Blobs · DataJud API
+</td>
+</tr>
+<tr>
 <td valign="top">
 <b><a href="https://github.com/EduardoTorres92/Juri-AI">Juri-AI</a></b><br>
 AI-powered SaaS for law firms: clients, cases, fees and deadlines, plus document analysis with RAG and OCR, and CNJ DataJud integration.<br><br>
