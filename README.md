@@ -2,6 +2,9 @@
 <h3 align="center">Data Analyst | SaaS Builder | AI Applied to Real Problems</h3>
 
 <p align="center">
+<a href="https://portfolio-eduardo-eta-plum.vercel.app">
+  <img src="https://img.shields.io/badge/-Portfolio-e8261c?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/eduardo-torres-769aa963/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -21,6 +24,8 @@
 • Builder of SaaS products and web apps with AI integration  
 • I build websites for local businesses in Sorocaba/SP — from briefing to launch  
 • Strong background in Python, SQL and backend architecture  
+
+🌐 **Portfolio:** [portfolio-eduardo-eta-plum.vercel.app](https://portfolio-eduardo-eta-plum.vercel.app) — all projects, live demos and how I work.
 
 Currently building intelligent systems that combine:
 Data + Automation + LLMs + Real-world business use cases
@@ -54,10 +59,12 @@ Resellable website for Brazilian law firms, in black and white with film grain: 
 </td>
 </tr>
 <tr>
-
+<td colspan="2" valign="top">
+<a href="https://github.com/EduardoTorres92/dash_vendas"><img src="https://raw.githubusercontent.com/EduardoTorres92/dash_vendas/main/docs/layout-depois.png" width="320" align="right"></a>
 <b><a href="https://github.com/EduardoTorres92/dash_vendas">Sales Dashboard</a></b><br>
-Interactive revenue analysis: ETL pipelines, returns, shipment potential and a Brazil map — with sensitive data anonymized.<br><br>
-Python · Streamlit · Pandas · Plotly
+Interactive revenue analysis for a multi-unit business: net revenue per business unit (gross + cut-off − returns) with month-over-month variation, ETL pipelines for billing, returns and shipments, shipment potential, lead time and a Brazil map. Real reports can be uploaded locally; a demo mode runs on fictional data, and the repo blocks real spreadsheets from ever being committed.<br><br>
+Python · Streamlit · Pandas · Plotly<br><br>
+<img src="https://raw.githubusercontent.com/EduardoTorres92/dash_vendas/main/docs/mapa.jpg" width="32%"> <img src="https://raw.githubusercontent.com/EduardoTorres92/dash_vendas/main/docs/evolucao.jpg" width="32%"> <img src="https://raw.githubusercontent.com/EduardoTorres92/dash_vendas/main/docs/devolucoes.jpg" width="32%">
 </td>
 </tr>
 
