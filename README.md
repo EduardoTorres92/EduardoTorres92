@@ -54,29 +54,13 @@ Resellable website for Brazilian law firms, in black and white with film grain: 
 </td>
 </tr>
 <tr>
-<td valign="top">
-<b><a href="https://github.com/EduardoTorres92/Juri-AI">Juri-AI</a></b><br>
-AI-powered SaaS for law firms: clients, cases, fees and deadlines, plus document analysis with RAG and OCR, and CNJ DataJud integration.<br><br>
-Django · LangChain · LanceDB · OpenAI
-</td>
-<td valign="top">
+
 <b><a href="https://github.com/EduardoTorres92/dash_vendas">Sales Dashboard</a></b><br>
 Interactive revenue analysis: ETL pipelines, returns, shipment potential and a Brazil map — with sensitive data anonymized.<br><br>
 Python · Streamlit · Pandas · Plotly
 </td>
 </tr>
-<tr>
-<td valign="top">
-<b>Workout app with AI trainer</b> — <a href="https://github.com/EduardoTorres92/bootcamp-treinos-api">API</a> · <a href="https://github.com/EduardoTorres92/bootcamp-treinos-front">Front-end</a><br>
-An AI agent with tool calling builds personalized weekly plans; typed client generated from OpenAPI.<br><br>
-Fastify · Next.js · Prisma · AI SDK
-</td>
-<td valign="top">
-<b><a href="https://github.com/EduardoTorres92/barbeari-ia">Barbershop booking</a></b> <i>(in progress)</i><br>
-Online booking for barbershops: search, services and appointments.<br><br>
-Next.js · Prisma · PostgreSQL
-</td>
-</tr>
+
 </table>
 
 🔹 **Data Pipelines & ETL Projects**  
