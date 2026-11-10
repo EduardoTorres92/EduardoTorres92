@@ -46,10 +46,11 @@ Cinematic scroll-driven website for a real pet grooming business: AI-generated v
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://github.com/EduardoTorres92/modelo-site-advocacia"><img src="https://raw.githubusercontent.com/EduardoTorres92/modelo-site-advocacia/main/docs/1-abertura.jpg" width="320" align="right"></a>
+<a href="https://github.com/EduardoTorres92/modelo-site-advocacia"><img src="https://raw.githubusercontent.com/EduardoTorres92/modelo-site-advocacia/main/docs/1-hero.jpg" width="320" align="right"></a>
 <b><a href="https://github.com/EduardoTorres92/modelo-site-advocacia">Law Firm Website Template</a></b><br>
-Resellable website for Brazilian law firms: a scroll-driven video opening (160 frames on a canvas) and a case-tracking tool on top of CNJ's public DataJud API, explaining each court update in plain Portuguese. Background function + Netlify Blobs to survive a 30–60 s public API. Built within the bar association's advertising rules (OAB Provimento 205/2021).<br><br>
-<a href="https://advocacia-modelo-eduardo.netlify.app">▶ Live demo</a> · JavaScript · Netlify Functions · Netlify Blobs · DataJud API
+Resellable website for Brazilian law firms, in black and white with film grain: a looping video hero, practice areas pinned to the scroll, a contract that gets redlined as you scroll until both signatures draw in, and a case-tracking tool on top of CNJ's public DataJud API that explains each court update in plain Portuguese. Serverless function with retries and CDN caching to survive a slow public API. Built within the bar association's advertising rules (OAB Provimento 205/2021).<br><br>
+<a href="https://advocacia-modelo-eduardo.vercel.app">▶ Live demo</a> · JavaScript · GSAP · Lenis · Vercel Functions · DataJud API<br><br>
+<img src="https://raw.githubusercontent.com/EduardoTorres92/modelo-site-advocacia/main/docs/2-dossies.jpg" width="32%"> <img src="https://raw.githubusercontent.com/EduardoTorres92/modelo-site-advocacia/main/docs/3-minuta.jpg" width="32%"> <img src="https://raw.githubusercontent.com/EduardoTorres92/modelo-site-advocacia/main/docs/6-escritorio.jpg" width="32%">
 </td>
 </tr>
 <tr>
