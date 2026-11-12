@@ -2,8 +2,8 @@
 <h3 align="center">Data Analyst | SaaS Builder | AI Applied to Real Problems</h3>
 
 <p align="center">
-<a href="https://portfolio-eduardo-eta-plum.vercel.app">
-  <img src="https://img.shields.io/badge/-Portfolio-e8261c?style=flat-square&logo=vercel&logoColor=white"/>
+<a href="https://eduardotorres-dev.com.br">
+  <img src="https://img.shields.io/badge/-Portfolio-e8261c?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/eduardo-torres-769aa963/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -25,7 +25,7 @@
 • I build websites for local businesses in Sorocaba/SP — from briefing to launch  
 • Strong background in Python, SQL and backend architecture  
 
-🌐 **Portfolio:** [portfolio-eduardo-eta-plum.vercel.app](https://portfolio-eduardo-eta-plum.vercel.app) — all projects, live demos and how I work.
+🌐 **Portfolio:** [eduardotorres-dev.com.br](https://eduardotorres-dev.com.br) — all projects, live demos and how I work.
 
 Currently building intelligent systems that combine:
 Data + Automation + LLMs + Real-world business use cases
