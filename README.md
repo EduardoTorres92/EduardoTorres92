@@ -60,6 +60,15 @@ Resellable website for Brazilian law firms, in black and white with film grain: 
 </tr>
 <tr>
 <td colspan="2" valign="top">
+<a href="https://barbearia.eduardotorres-dev.com.br"><img src="docs/barbearia/hero.jpg" width="320" align="right"></a>
+<b><a href="https://github.com/EduardoTorres92/barbeari-ia/tree/main/landing">Barbershop Landing Page · Pente Fino</a></b><br>
+Black-and-white landing page for a barbershop with a real-time 3D barber chair (Three.js) under a spotlight, a cinematic intro where a comb passes through hair, a numbered price list where the matching tool follows the cursor, barbers' mirrors that light up on selection, before/after haircut cards and a membership club. Every booking button opens WhatsApp with a pre-filled message (naming the service when there is one). Deployed as a static build on a Hostinger subdomain.<br><br>
+<a href="https://barbearia.eduardotorres-dev.com.br">▶ Live demo</a> · JavaScript · Three.js · GSAP · Lenis · Vite · Hostinger<br><br>
+<img src="docs/barbearia/cardapio.jpg" width="32%"> <img src="docs/barbearia/espelhos.jpg" width="32%"> <img src="docs/barbearia/cortes.jpg" width="32%">
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 <a href="https://github.com/EduardoTorres92/dash_vendas"><img src="https://raw.githubusercontent.com/EduardoTorres92/dash_vendas/main/docs/layout-depois.png" width="320" align="right"></a>
 <b><a href="https://github.com/EduardoTorres92/dash_vendas">Sales Dashboard</a></b><br>
 Interactive revenue analysis for a multi-unit business: net revenue per business unit (gross + cut-off − returns) with month-over-month variation, ETL pipelines for billing, returns and shipments, shipment potential, lead time and a Brazil map. Real reports can be uploaded locally; a demo mode runs on fictional data, and the repo blocks real spreadsheets from ever being committed.<br><br>
